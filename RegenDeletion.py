@@ -1,5 +1,5 @@
 #The main intention of the script is the ability to remove a file, that can regenerate itself. Later you can put it in the task manager.
-# Made by vladthedev in 2020.
+# Made by httpfive in 2020.
 
 
 import os
